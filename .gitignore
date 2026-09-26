@@ -4,7 +4,7 @@
 .vscode/
 #Cache folder
 .alcache/
-#Symbols folder
+#Symbols folder we
 .alpackages/
 #Snapshots folder
 .snapshots/
